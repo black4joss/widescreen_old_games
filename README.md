@@ -1,4 +1,4 @@
-# widescreen-patch-tomb-raider-2345
+# old-games-widescreen-patch
 
 The source code of Tomb Raider 2 - 3 - 4 - 5 widescreen patch, Win32API C++ project for Visual Studio 2019 and Visual Studio 6.0.
 
